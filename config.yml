@@ -28,7 +28,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: أشيايا
-  description: "اعرض أشيائك الزائدة للبيع"
+  description: "عالم الطفل المسلم -مسلسلات-دورات تكليف-كتب-ألعاب"
   keywords: [Blog, Portfolio, PaperMod]
   author: إدارة الموقع
   # author: ["Me", "You"] # multiple authors
@@ -88,8 +88,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "اعرض أشيائك الزائدة للبيع \U0001F44B"
-    Content: وخلك خفيف
+    Title: "عالم الطفل المسلم \U0001F44B"
+    Content: مسلسلات-أناشيد-دورات تكليف-كتب مفيدة-ألعاب
 
 #  socialIcons:
 #    - name: twitter
@@ -135,11 +135,11 @@ menu:
      # url: /categories/
      # weight: 10
     - identifier: tags
-      name: أشياء معروضة
+      name: مسلسلات
       url: /tags/
       weight: 10
     - identifier: books
-      name: أضف شيئك
+      name: أناشيد
       url: /books/
       weight: 20    
    # - identifier: archives
