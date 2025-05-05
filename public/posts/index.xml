@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>المقالات on أشيايا</title>
-    <link>https://jammy4t.github.io/ashyaya/posts/</link>
+    <link>http://localhost:1313/ashyaya/posts/</link>
     <description>Recent content in المقالات on أشيايا</description>
     <image>
       <title>أشيايا</title>
-      <url>https://jammy4t.github.io/ashyaya/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://jammy4t.github.io/ashyaya/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/ashyaya/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/ashyaya/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.0</generator>
     <language>ar</language>
     <lastBuildDate>Tue, 06 May 2025 01:54:59 +0300</lastBuildDate>
-    <atom:link href="https://jammy4t.github.io/ashyaya/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ashyaya/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 01 | مسلسل المختار الثقفي - الحلقة الأولى</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/75/</link>
+      <link>http://localhost:1313/ashyaya/posts/75/</link>
       <pubDate>Tue, 06 May 2025 01:54:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/75/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/75/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/h6iXCXIfbyc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -27,9 +27,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 2 | مسلسل المختار الثقفي - الحلقة الثانية</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/76/</link>
+      <link>http://localhost:1313/ashyaya/posts/76/</link>
       <pubDate>Tue, 06 May 2025 01:53:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/76/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/76/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/YMO6y8n0WFQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -39,9 +39,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 3 | مسلسل المختار الثقفي - الحلقة الثالثة</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/77/</link>
+      <link>http://localhost:1313/ashyaya/posts/77/</link>
       <pubDate>Tue, 06 May 2025 01:52:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/77/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/77/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/FaNVJn7M-HU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -51,9 +51,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 4 | مسلسل المختار الثقفي - الحلقة الرابعة</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/78/</link>
+      <link>http://localhost:1313/ashyaya/posts/78/</link>
       <pubDate>Tue, 06 May 2025 01:51:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/78/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/78/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/0HQz7testxI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -63,9 +63,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 5 | مسلسل المختار الثقفي - الحلقة الخامسة</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/79/</link>
+      <link>http://localhost:1313/ashyaya/posts/79/</link>
       <pubDate>Tue, 06 May 2025 01:50:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/79/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/79/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/BDPpy4vW91E?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -75,9 +75,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 6 | مسلسل المختار الثقفي - الحلقة السادسة</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/80/</link>
+      <link>http://localhost:1313/ashyaya/posts/80/</link>
       <pubDate>Tue, 06 May 2025 01:49:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/80/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/80/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/OW4iV1JwFww?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -87,9 +87,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 7 | مسلسل المختار الثقفي - الحلقة السابعة</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/81/</link>
+      <link>http://localhost:1313/ashyaya/posts/81/</link>
       <pubDate>Tue, 06 May 2025 01:48:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/81/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/81/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/9kQgGiBHMlI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -99,9 +99,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 8 | مسلسل المختار الثقفي - الحلقة الثامنة</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/82/</link>
+      <link>http://localhost:1313/ashyaya/posts/82/</link>
       <pubDate>Tue, 06 May 2025 01:47:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/82/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/82/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ZOhJCm_0n1k?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -111,9 +111,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 9 | مسلسل المختار الثقفي - الحلقة التاسعة</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/83/</link>
+      <link>http://localhost:1313/ashyaya/posts/83/</link>
       <pubDate>Tue, 06 May 2025 01:46:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/83/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/83/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/EGb2k4OFGug?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -123,9 +123,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 10 | مسلسل المختار الثقفي - الحلقة العاشرة</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/84/</link>
+      <link>http://localhost:1313/ashyaya/posts/84/</link>
       <pubDate>Tue, 06 May 2025 01:45:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/84/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/84/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Fv2M1wtGCuo?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -135,9 +135,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 11 | مسلسل المختار الثقفي - الحلقة الحادية عشر</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/85/</link>
+      <link>http://localhost:1313/ashyaya/posts/85/</link>
       <pubDate>Tue, 06 May 2025 01:44:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/85/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/85/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/jvxztShAzsM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -147,9 +147,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 12 | مسلسل المختار الثقفي - الحلقة الثانية عشر</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/86/</link>
+      <link>http://localhost:1313/ashyaya/posts/86/</link>
       <pubDate>Tue, 06 May 2025 01:43:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/86/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/86/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/khbkxb2y-Fg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -159,9 +159,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 13 | مسلسل المختار الثقفي - الحلقة الثالثة عشر</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/87/</link>
+      <link>http://localhost:1313/ashyaya/posts/87/</link>
       <pubDate>Tue, 06 May 2025 01:42:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/87/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/87/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/K-x-UCbo4rM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -171,9 +171,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 14 | مسلسل المختار الثقفي - الحلقة الرابعة عشر</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/88/</link>
+      <link>http://localhost:1313/ashyaya/posts/88/</link>
       <pubDate>Tue, 06 May 2025 01:41:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/88/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/88/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/SaC1UzY9iTA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -183,9 +183,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 15 | مسلسل المختار الثقفي - الحلقة الخامسة عشر</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/89/</link>
+      <link>http://localhost:1313/ashyaya/posts/89/</link>
       <pubDate>Tue, 06 May 2025 01:40:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/89/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/89/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/-33imbnl9Io?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -195,9 +195,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 16 | مسلسل المختار الثقفي - الحلقة السادسة عشر</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/90/</link>
+      <link>http://localhost:1313/ashyaya/posts/90/</link>
       <pubDate>Tue, 06 May 2025 01:39:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/90/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/90/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/9GGJYQ9Om-A?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -207,9 +207,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 17 | مسلسل المختار الثقفي - الحلقة السابعة عشر</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/91/</link>
+      <link>http://localhost:1313/ashyaya/posts/91/</link>
       <pubDate>Tue, 06 May 2025 01:38:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/91/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/91/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/T3a__y5DSu8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -219,9 +219,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 18 | مسلسل المختار الثقفي - الحلقة الثامنة عشر</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/92/</link>
+      <link>http://localhost:1313/ashyaya/posts/92/</link>
       <pubDate>Tue, 06 May 2025 01:37:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/92/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/92/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/cHHz0sh95sI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -231,9 +231,9 @@
     </item>
     <item>
       <title>مسلسل مريم المقدسة | الحلقة 1 وروابط كل الحلقات</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/64/</link>
+      <link>http://localhost:1313/ashyaya/posts/64/</link>
       <pubDate>Tue, 06 May 2025 01:37:16 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/64/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/64/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/dgpksTREy4Q?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -243,9 +243,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 19 | مسلسل المختار الثقفي - الحلقة التاسعة عشر</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/93/</link>
+      <link>http://localhost:1313/ashyaya/posts/93/</link>
       <pubDate>Tue, 06 May 2025 01:36:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/93/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/93/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/iJfnU85XZh4?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -255,9 +255,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 20 | مسلسل المختار الثقفي - الحلقة العشرون</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/94/</link>
+      <link>http://localhost:1313/ashyaya/posts/94/</link>
       <pubDate>Tue, 06 May 2025 01:35:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/94/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/94/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/S8v1RkFctZ8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -267,9 +267,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 21 | مسلسل المختار الثقفي - الحلقة الواحدة والعشرون</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/95/</link>
+      <link>http://localhost:1313/ashyaya/posts/95/</link>
       <pubDate>Tue, 06 May 2025 01:34:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/95/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/95/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/k-7ViiUHglg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -279,9 +279,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 22 | مسلسل المختار الثقفي - الحلقة الثانية والعشرون</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/96/</link>
+      <link>http://localhost:1313/ashyaya/posts/96/</link>
       <pubDate>Tue, 06 May 2025 01:33:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/96/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/96/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/NNYqSET7-5w?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -291,9 +291,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 23 | مسلسل المختار الثقفي - الحلقة الثالثة والعشرون</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/97/</link>
+      <link>http://localhost:1313/ashyaya/posts/97/</link>
       <pubDate>Tue, 06 May 2025 01:32:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/97/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/97/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/k73XjGblaes?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -303,9 +303,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 24 | مسلسل المختار الثقفي - الحلقة الرابعة والعشرون</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/98/</link>
+      <link>http://localhost:1313/ashyaya/posts/98/</link>
       <pubDate>Tue, 06 May 2025 01:31:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/98/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/98/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/cShcvmgk8Yc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -315,9 +315,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 25 | مسلسل المختار الثقفي - الحلقة الخامسة والعشرون</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/99/</link>
+      <link>http://localhost:1313/ashyaya/posts/99/</link>
       <pubDate>Tue, 06 May 2025 01:30:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/99/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/99/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/q0xcbTUa3I0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -327,9 +327,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 26 | مسلسل المختار الثقفي - الحلقة السادسة والعشرون</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/100/</link>
+      <link>http://localhost:1313/ashyaya/posts/100/</link>
       <pubDate>Tue, 06 May 2025 01:29:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/100/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/100/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/F1vUj_ZG9_A?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -339,9 +339,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 27 | مسلسل المختار الثقفي - الحلقة السابعة والعشرون</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/101/</link>
+      <link>http://localhost:1313/ashyaya/posts/101/</link>
       <pubDate>Tue, 06 May 2025 01:28:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/101/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/101/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/XQPrLcVKosA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -351,9 +351,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 28 | مسلسل المختار الثقفي - الحلقة الثامنة والعشرون</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/102/</link>
+      <link>http://localhost:1313/ashyaya/posts/102/</link>
       <pubDate>Tue, 06 May 2025 01:27:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/102/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/102/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/zuoS91AUWsw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -363,9 +363,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 29 | مسلسل المختار الثقفي - الحلقة التاسعة والعشرون</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/103/</link>
+      <link>http://localhost:1313/ashyaya/posts/103/</link>
       <pubDate>Tue, 06 May 2025 01:26:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/103/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/103/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/K5urdf-qcz0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -375,9 +375,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 30 | مسلسل المختار الثقفي - الحلقة الثلاثون</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/104/</link>
+      <link>http://localhost:1313/ashyaya/posts/104/</link>
       <pubDate>Tue, 06 May 2025 01:25:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/104/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/104/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/9NLgTEC_tZE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -387,9 +387,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 31 | مسلسل المختار الثقفي - الحلقة الواحدة والثلاثون</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/105/</link>
+      <link>http://localhost:1313/ashyaya/posts/105/</link>
       <pubDate>Tue, 06 May 2025 01:24:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/105/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/105/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Oop6Kf-wDBE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -399,9 +399,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 32 | مسلسل المختار الثقفي - الحلقة الثانية والثلاثون</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/106/</link>
+      <link>http://localhost:1313/ashyaya/posts/106/</link>
       <pubDate>Tue, 06 May 2025 01:23:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/106/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/106/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/VqBSXStMJ_s?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -411,9 +411,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 33 | مسلسل المختار الثقفي - الحلقة الثالثة والثلاثون</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/107/</link>
+      <link>http://localhost:1313/ashyaya/posts/107/</link>
       <pubDate>Tue, 06 May 2025 01:22:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/107/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/107/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/U9VXCJgrM5A?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -423,9 +423,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 34 | مسلسل المختار الثقفي - الحلقة الرابعة والثلاثون</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/108/</link>
+      <link>http://localhost:1313/ashyaya/posts/108/</link>
       <pubDate>Tue, 06 May 2025 01:21:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/108/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/108/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/PpEBdmbwzV4?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -435,9 +435,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 35 | مسلسل المختار الثقفي - الحلقة الخامسة والثلاثون</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/109/</link>
+      <link>http://localhost:1313/ashyaya/posts/109/</link>
       <pubDate>Tue, 06 May 2025 01:20:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/109/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/109/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/JNgzRzpE-90?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -447,9 +447,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 36 | مسلسل المختار الثقفي - الحلقة السادسة والثلاثون</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/110/</link>
+      <link>http://localhost:1313/ashyaya/posts/110/</link>
       <pubDate>Tue, 06 May 2025 01:19:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/110/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/110/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/WSirnNeiPC8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -459,9 +459,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 37 | مسلسل المختار الثقفي - الحلقة السابعة والثلاثون</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/111/</link>
+      <link>http://localhost:1313/ashyaya/posts/111/</link>
       <pubDate>Tue, 06 May 2025 01:18:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/111/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/111/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/JNbg9XSv4TU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -471,9 +471,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 38 | مسلسل المختار الثقفي - الحلقة الثامنة والثلاثون</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/112/</link>
+      <link>http://localhost:1313/ashyaya/posts/112/</link>
       <pubDate>Tue, 06 May 2025 01:17:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/112/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/112/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ZlRMiFoV5wY?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -483,9 +483,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 39  مسلسل المختار الثقفي - الحلقة التاسعة والثلاثون</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/113/</link>
+      <link>http://localhost:1313/ashyaya/posts/113/</link>
       <pubDate>Tue, 06 May 2025 01:16:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/113/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/113/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Y6DqJbZpYIk?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -495,9 +495,9 @@
     </item>
     <item>
       <title>4K Al-Mukhtar Al-Thaqafi - Episode 40 | مسلسل المختار الثقفي - الحلقة الأربعون</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/114/</link>
+      <link>http://localhost:1313/ashyaya/posts/114/</link>
       <pubDate>Tue, 06 May 2025 01:15:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/114/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/114/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/XZmI1tighII?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -507,9 +507,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 1 وروابط كل الحلقات</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/1/</link>
+      <link>http://localhost:1313/ashyaya/posts/1/</link>
       <pubDate>Mon, 05 May 2025 01:21:13 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/1/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/1/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/4qF1IhVcSC4?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -520,9 +520,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 2</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/2/</link>
+      <link>http://localhost:1313/ashyaya/posts/2/</link>
       <pubDate>Sun, 04 May 2025 01:21:13 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/2/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/2/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/09c-ipCIhaE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -532,9 +532,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 3</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/3/</link>
+      <link>http://localhost:1313/ashyaya/posts/3/</link>
       <pubDate>Sun, 04 May 2025 01:21:12 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/3/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/3/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/x9TS-pBOjRY?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -544,9 +544,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 4</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/4/</link>
+      <link>http://localhost:1313/ashyaya/posts/4/</link>
       <pubDate>Sun, 04 May 2025 01:21:11 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/4/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/4/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/jPnkzXEqY8E?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -556,9 +556,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 5</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/5/</link>
+      <link>http://localhost:1313/ashyaya/posts/5/</link>
       <pubDate>Sun, 04 May 2025 01:21:10 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/5/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/5/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ih6aGDX_uIo?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -568,9 +568,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 6</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/6/</link>
+      <link>http://localhost:1313/ashyaya/posts/6/</link>
       <pubDate>Sun, 04 May 2025 01:21:09 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/6/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/6/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/8X70KNfJz8k?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -580,9 +580,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 7</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/7/</link>
+      <link>http://localhost:1313/ashyaya/posts/7/</link>
       <pubDate>Sun, 04 May 2025 01:21:08 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/7/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/7/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Zusilcr2Sik?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -592,9 +592,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 8</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/8/</link>
+      <link>http://localhost:1313/ashyaya/posts/8/</link>
       <pubDate>Sun, 04 May 2025 01:21:07 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/8/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/8/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ZI-TsxW5wG8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -604,9 +604,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 9</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/9/</link>
+      <link>http://localhost:1313/ashyaya/posts/9/</link>
       <pubDate>Sun, 04 May 2025 01:21:06 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/9/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/9/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/QiZyQeaE5T0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -616,9 +616,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 10</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/10/</link>
+      <link>http://localhost:1313/ashyaya/posts/10/</link>
       <pubDate>Sun, 04 May 2025 01:21:05 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/10/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/10/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/bqhYmdOXjHM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -628,9 +628,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 11</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/11/</link>
+      <link>http://localhost:1313/ashyaya/posts/11/</link>
       <pubDate>Sun, 04 May 2025 01:21:04 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/11/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/11/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/MdIiUCUp8e0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -640,9 +640,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 12</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/12/</link>
+      <link>http://localhost:1313/ashyaya/posts/12/</link>
       <pubDate>Sun, 04 May 2025 01:21:03 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/12/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/12/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/67N8qD5oLw8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -652,9 +652,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 13</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/13/</link>
+      <link>http://localhost:1313/ashyaya/posts/13/</link>
       <pubDate>Sun, 04 May 2025 01:21:02 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/13/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/13/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/bhuRVvKO618?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -664,9 +664,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 14</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/14/</link>
+      <link>http://localhost:1313/ashyaya/posts/14/</link>
       <pubDate>Sun, 04 May 2025 01:21:01 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/14/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/14/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/TbTCOl-OHFM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -676,9 +676,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 15</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/15/</link>
+      <link>http://localhost:1313/ashyaya/posts/15/</link>
       <pubDate>Sun, 04 May 2025 01:21:00 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/15/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/15/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/OKJY2V0ruQk?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -688,9 +688,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 16</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/16/</link>
+      <link>http://localhost:1313/ashyaya/posts/16/</link>
       <pubDate>Sun, 04 May 2025 01:20:59 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/16/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/16/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/tXUrDR8AR9I?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -700,9 +700,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 17</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/17/</link>
+      <link>http://localhost:1313/ashyaya/posts/17/</link>
       <pubDate>Sun, 04 May 2025 01:20:58 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/17/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/17/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/qBuZhCuwxPU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -712,9 +712,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 18</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/18/</link>
+      <link>http://localhost:1313/ashyaya/posts/18/</link>
       <pubDate>Sun, 04 May 2025 01:20:57 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/18/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/18/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/PvTfDrYw9TE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -724,9 +724,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 20</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/20/</link>
+      <link>http://localhost:1313/ashyaya/posts/20/</link>
       <pubDate>Sun, 04 May 2025 01:20:57 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/20/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/20/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/5afImzRevcE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -736,9 +736,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 19</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/19/</link>
+      <link>http://localhost:1313/ashyaya/posts/19/</link>
       <pubDate>Sun, 04 May 2025 01:20:56 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/19/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/19/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/5LNA71iF9Zo?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -748,9 +748,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 21</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/21/</link>
+      <link>http://localhost:1313/ashyaya/posts/21/</link>
       <pubDate>Sun, 04 May 2025 01:20:56 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/21/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/21/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/8iph2D3ph_c?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -760,9 +760,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 22</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/22/</link>
+      <link>http://localhost:1313/ashyaya/posts/22/</link>
       <pubDate>Sun, 04 May 2025 01:20:55 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/22/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/22/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ehIwjJEUqsY?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -772,9 +772,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 23</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/23/</link>
+      <link>http://localhost:1313/ashyaya/posts/23/</link>
       <pubDate>Sun, 04 May 2025 01:20:54 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/23/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/23/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/9BRjXVdUkes?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -784,9 +784,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 24</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/24/</link>
+      <link>http://localhost:1313/ashyaya/posts/24/</link>
       <pubDate>Sun, 04 May 2025 01:20:53 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/24/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/24/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/G02_zCzkwKI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -796,9 +796,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 25</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/25/</link>
+      <link>http://localhost:1313/ashyaya/posts/25/</link>
       <pubDate>Sun, 04 May 2025 01:20:52 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/25/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/25/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/s-KwZBuPJNE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -808,9 +808,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 26</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/26/</link>
+      <link>http://localhost:1313/ashyaya/posts/26/</link>
       <pubDate>Sun, 04 May 2025 01:20:51 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/26/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/26/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/RhmoF9n_R04?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -820,9 +820,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 27</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/27/</link>
+      <link>http://localhost:1313/ashyaya/posts/27/</link>
       <pubDate>Sun, 04 May 2025 01:20:50 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/27/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/27/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/36H3B4WKMd0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -832,9 +832,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 28</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/28/</link>
+      <link>http://localhost:1313/ashyaya/posts/28/</link>
       <pubDate>Sun, 04 May 2025 01:20:49 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/28/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/28/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/8h0o2Y9d90Q?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -844,9 +844,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 29</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/29/</link>
+      <link>http://localhost:1313/ashyaya/posts/29/</link>
       <pubDate>Sun, 04 May 2025 01:20:48 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/29/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/29/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/mOUT-UyAkRA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -856,9 +856,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 30</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/30/</link>
+      <link>http://localhost:1313/ashyaya/posts/30/</link>
       <pubDate>Sun, 04 May 2025 01:20:47 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/30/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/30/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/9c6DZfQe9V0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -868,9 +868,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 31</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/31/</link>
+      <link>http://localhost:1313/ashyaya/posts/31/</link>
       <pubDate>Sun, 04 May 2025 01:20:46 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/31/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/31/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/B5Ad2N5L0-A?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -880,9 +880,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 32</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/32/</link>
+      <link>http://localhost:1313/ashyaya/posts/32/</link>
       <pubDate>Sun, 04 May 2025 01:20:45 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/32/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/32/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/eCKwuxlsaSI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -892,9 +892,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 33</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/33/</link>
+      <link>http://localhost:1313/ashyaya/posts/33/</link>
       <pubDate>Sun, 04 May 2025 01:20:44 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/33/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/33/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/V7NSh49Z_2I?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -904,9 +904,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 34</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/34/</link>
+      <link>http://localhost:1313/ashyaya/posts/34/</link>
       <pubDate>Sun, 04 May 2025 01:20:43 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/34/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/34/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Wj4b1Oakwho?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -916,9 +916,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 35</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/35/</link>
+      <link>http://localhost:1313/ashyaya/posts/35/</link>
       <pubDate>Sun, 04 May 2025 01:20:41 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/35/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/35/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ecKplX1GGN0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -928,9 +928,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 36</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/36/</link>
+      <link>http://localhost:1313/ashyaya/posts/36/</link>
       <pubDate>Sun, 04 May 2025 01:20:40 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/36/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/36/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ZucIGgXGRWU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -940,9 +940,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 37</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/37/</link>
+      <link>http://localhost:1313/ashyaya/posts/37/</link>
       <pubDate>Sun, 04 May 2025 01:20:39 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/37/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/37/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/rKzbCAHxKH8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -952,9 +952,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 38</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/38/</link>
+      <link>http://localhost:1313/ashyaya/posts/38/</link>
       <pubDate>Sun, 04 May 2025 01:20:38 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/38/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/38/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/M5UYzoG5K6M?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -964,9 +964,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 39</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/39/</link>
+      <link>http://localhost:1313/ashyaya/posts/39/</link>
       <pubDate>Sun, 04 May 2025 01:20:37 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/39/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/39/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/peHbdh4tCUM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -976,9 +976,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 40</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/40/</link>
+      <link>http://localhost:1313/ashyaya/posts/40/</link>
       <pubDate>Sun, 04 May 2025 01:20:36 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/40/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/40/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/XGB_Oq218w4?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -988,9 +988,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 41</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/41/</link>
+      <link>http://localhost:1313/ashyaya/posts/41/</link>
       <pubDate>Sun, 04 May 2025 01:20:35 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/41/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/41/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/tyypVZ4h4kI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1000,9 +1000,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 42</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/42/</link>
+      <link>http://localhost:1313/ashyaya/posts/42/</link>
       <pubDate>Sun, 04 May 2025 01:20:34 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/42/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/42/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/KDcn-fwO0u0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1012,9 +1012,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 43</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/43/</link>
+      <link>http://localhost:1313/ashyaya/posts/43/</link>
       <pubDate>Sun, 04 May 2025 01:20:33 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/43/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/43/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/0MZA3GbPXNU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1024,9 +1024,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 44</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/44/</link>
+      <link>http://localhost:1313/ashyaya/posts/44/</link>
       <pubDate>Sun, 04 May 2025 01:20:32 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/44/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/44/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/UTYZt5HgPZ8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1036,9 +1036,9 @@
     </item>
     <item>
       <title>مسلسل يوسف الصديق (ع) | الحلقة 45 وهي الأخيرة</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/45/</link>
+      <link>http://localhost:1313/ashyaya/posts/45/</link>
       <pubDate>Sun, 04 May 2025 01:20:31 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/45/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/45/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Tg_xUUofuM8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1048,9 +1048,9 @@
     </item>
     <item>
       <title>4K The Men of Angelos - Episode 1 | مسلسل أصحاب الكهف - الحلقة الأولى وروابط كل الحلقات</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/46/</link>
+      <link>http://localhost:1313/ashyaya/posts/46/</link>
       <pubDate>Sat, 03 May 2025 07:02:20 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/46/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/46/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/06aVModzieo?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1060,9 +1060,9 @@
     </item>
     <item>
       <title>4K The Men of Angelos - Episode 2 | مسلسل أصحاب الكهف - الحلقة الثانية</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/47/</link>
+      <link>http://localhost:1313/ashyaya/posts/47/</link>
       <pubDate>Sat, 03 May 2025 07:02:19 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/47/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/47/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/2RcFNPX7kP4?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1072,9 +1072,9 @@
     </item>
     <item>
       <title>4K The Men of Angelos - Episode 3 | مسلسل أصحاب الكهف - الحلقة الثالثة</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/48/</link>
+      <link>http://localhost:1313/ashyaya/posts/48/</link>
       <pubDate>Sat, 03 May 2025 07:02:18 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/48/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/48/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/YaZib0_q_NA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1084,9 +1084,9 @@
     </item>
     <item>
       <title>4K The Men of Angelos - Episode 4 | مسلسل أصحاب الكهف - الحلقة الرابعة</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/49/</link>
+      <link>http://localhost:1313/ashyaya/posts/49/</link>
       <pubDate>Sat, 03 May 2025 07:02:17 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/49/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/49/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/tt4SsvcSCBU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1096,9 +1096,9 @@
     </item>
     <item>
       <title>4K The Men of Angelos - Episode 5 | مسلسل أصحاب الكهف - الحلقة الخامسة</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/50/</link>
+      <link>http://localhost:1313/ashyaya/posts/50/</link>
       <pubDate>Sat, 03 May 2025 07:02:16 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/50/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/50/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Wg2EZU_Gxls?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1108,9 +1108,9 @@
     </item>
     <item>
       <title>4K The Men of Angelos - Episode 6 | مسلسل أصحاب الكهف - الحلقة السادسة</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/51/</link>
+      <link>http://localhost:1313/ashyaya/posts/51/</link>
       <pubDate>Sat, 03 May 2025 07:02:15 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/51/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/51/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/e67sWpWOoTE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1120,9 +1120,9 @@
     </item>
     <item>
       <title>4K The Men of Angelos - Episode 7 | مسلسل أصحاب الكهف - الحلقة السابعة</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/52/</link>
+      <link>http://localhost:1313/ashyaya/posts/52/</link>
       <pubDate>Sat, 03 May 2025 07:02:14 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/52/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/52/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/HbkvAY0FC0U?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1132,9 +1132,9 @@
     </item>
     <item>
       <title>4K The Men of Angelos - Episode 8 | مسلسل أصحاب الكهف - الحلقة الثامنة</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/53/</link>
+      <link>http://localhost:1313/ashyaya/posts/53/</link>
       <pubDate>Sat, 03 May 2025 07:02:13 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/53/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/53/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/jT7Op_Qvnig?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1144,9 +1144,9 @@
     </item>
     <item>
       <title>4K The Men of Angelos - Episode 9 | مسلسل أصحاب الكهف - الحلقة التاسعة</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/54/</link>
+      <link>http://localhost:1313/ashyaya/posts/54/</link>
       <pubDate>Sat, 03 May 2025 07:02:12 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/54/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/54/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/sKqBLu3b9RI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1156,9 +1156,9 @@
     </item>
     <item>
       <title>4K The Men of Angelos - Episode 10 | مسلسل أصحاب الكهف - الحلقة العاشرة</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/55/</link>
+      <link>http://localhost:1313/ashyaya/posts/55/</link>
       <pubDate>Sat, 03 May 2025 07:02:11 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/55/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/55/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/mibcAE5NvTw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1168,9 +1168,9 @@
     </item>
     <item>
       <title>4K The Men of Angelos - Episode 11 | مسلسل أصحاب الكهف - الحلقة الحادية عشر</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/56/</link>
+      <link>http://localhost:1313/ashyaya/posts/56/</link>
       <pubDate>Sat, 03 May 2025 07:02:10 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/56/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/56/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/cNzzFcP6nhc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1180,9 +1180,9 @@
     </item>
     <item>
       <title>4K The Men of Angelos - Episode 12 | مسلسل أصحاب الكهف - الحلقة الثانية عشر</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/57/</link>
+      <link>http://localhost:1313/ashyaya/posts/57/</link>
       <pubDate>Sat, 03 May 2025 07:02:09 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/57/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/57/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/yi5A2IWeilA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1192,9 +1192,9 @@
     </item>
     <item>
       <title>4K The Men of Angelos - Episode 13 | مسلسل أصحاب الكهف - الحلقة الثالثة عشر</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/58/</link>
+      <link>http://localhost:1313/ashyaya/posts/58/</link>
       <pubDate>Sat, 03 May 2025 07:02:08 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/58/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/58/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/_pD_DTwY_a0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1204,9 +1204,9 @@
     </item>
     <item>
       <title>4K The Men of Angelos - Episode 14 | مسلسل أصحاب الكهف - الحلقة الرابعة عشر</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/59/</link>
+      <link>http://localhost:1313/ashyaya/posts/59/</link>
       <pubDate>Sat, 03 May 2025 07:02:07 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/59/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/59/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/20Y3NyJNVNI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1216,9 +1216,9 @@
     </item>
     <item>
       <title>4K The Men of Angelos - Episode 15 | مسلسل أصحاب الكهف - الحلقة الخامسة عشر</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/60/</link>
+      <link>http://localhost:1313/ashyaya/posts/60/</link>
       <pubDate>Sat, 03 May 2025 07:02:07 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/60/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/60/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/e-u75dHUPY8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1228,9 +1228,9 @@
     </item>
     <item>
       <title>4K The Men of Angelos - Episode 16 | مسلسل أصحاب الكهف - الحلقة السادسة عشر</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/61/</link>
+      <link>http://localhost:1313/ashyaya/posts/61/</link>
       <pubDate>Sat, 03 May 2025 07:02:06 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/61/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/61/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/LjO5L-g2toM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1240,9 +1240,9 @@
     </item>
     <item>
       <title>4K The Men of Angelos - Episode 17 | مسلسل أصحاب الكهف - الحلقة السابعة عشر</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/62/</link>
+      <link>http://localhost:1313/ashyaya/posts/62/</link>
       <pubDate>Sat, 03 May 2025 07:02:05 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/62/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/62/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/k43z3gOYWRI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1252,9 +1252,9 @@
     </item>
     <item>
       <title>4K The Men of Angelos - Episode 18 | مسلسل أصحاب الكهف - الحلقة الثامنة عشر ( الأخيرة )</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/63/</link>
+      <link>http://localhost:1313/ashyaya/posts/63/</link>
       <pubDate>Sat, 03 May 2025 07:02:04 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/63/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/63/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/S7bREKQvHjk?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1264,9 +1264,9 @@
     </item>
     <item>
       <title>مسلسل مريم المقدسة | الحلقة 2</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/65/</link>
+      <link>http://localhost:1313/ashyaya/posts/65/</link>
       <pubDate>Thu, 01 May 2025 01:36:16 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/65/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/65/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/qY7IQd5qS0Y?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1276,9 +1276,9 @@
     </item>
     <item>
       <title>مسلسل مريم المقدسة | الحلقة 3</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/66/</link>
+      <link>http://localhost:1313/ashyaya/posts/66/</link>
       <pubDate>Thu, 01 May 2025 01:35:16 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/66/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/66/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/FUWadwDWFl8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1288,9 +1288,9 @@
     </item>
     <item>
       <title>مسلسل مريم المقدسة | الحلقة 4</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/67/</link>
+      <link>http://localhost:1313/ashyaya/posts/67/</link>
       <pubDate>Thu, 01 May 2025 01:34:16 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/67/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/67/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/W5IhXtk_37w?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1300,9 +1300,9 @@
     </item>
     <item>
       <title>مسلسل مريم المقدسة | الحلقة 5</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/68/</link>
+      <link>http://localhost:1313/ashyaya/posts/68/</link>
       <pubDate>Thu, 01 May 2025 01:33:16 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/68/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/68/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/YTKYPG49WYY?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1312,9 +1312,9 @@
     </item>
     <item>
       <title>مسلسل مريم المقدسة | الحلقة 6</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/69/</link>
+      <link>http://localhost:1313/ashyaya/posts/69/</link>
       <pubDate>Thu, 01 May 2025 01:32:16 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/69/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/69/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/xlv316qkG_E?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1324,9 +1324,9 @@
     </item>
     <item>
       <title>مسلسل مريم المقدسة | الحلقة 7</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/70/</link>
+      <link>http://localhost:1313/ashyaya/posts/70/</link>
       <pubDate>Thu, 01 May 2025 01:31:16 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/70/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/70/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/FkssrQ4TypM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1336,9 +1336,9 @@
     </item>
     <item>
       <title>مسلسل مريم المقدسة | الحلقة 8</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/71/</link>
+      <link>http://localhost:1313/ashyaya/posts/71/</link>
       <pubDate>Thu, 01 May 2025 01:30:16 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/71/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/71/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/qq24Sut8RHg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1348,9 +1348,9 @@
     </item>
     <item>
       <title>مسلسل مريم المقدسة | الحلقة 9</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/72/</link>
+      <link>http://localhost:1313/ashyaya/posts/72/</link>
       <pubDate>Thu, 01 May 2025 01:29:16 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/72/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/72/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/x1okkL3uIC8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1360,9 +1360,9 @@
     </item>
     <item>
       <title>مسلسل مريم المقدسة | الحلقة 10</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/73/</link>
+      <link>http://localhost:1313/ashyaya/posts/73/</link>
       <pubDate>Thu, 01 May 2025 01:28:16 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/73/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/73/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/t_XWxcc2bwM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
@@ -1372,9 +1372,9 @@
     </item>
     <item>
       <title>مسلسل مريم المقدسة | الحلقة 11</title>
-      <link>https://jammy4t.github.io/ashyaya/posts/74/</link>
+      <link>http://localhost:1313/ashyaya/posts/74/</link>
       <pubDate>Thu, 01 May 2025 01:27:16 +0300</pubDate>
-      <guid>https://jammy4t.github.io/ashyaya/posts/74/</guid>
+      <guid>http://localhost:1313/ashyaya/posts/74/</guid>
       <description>&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/wj8t9rJX_tw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
